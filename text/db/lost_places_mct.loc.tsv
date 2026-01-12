@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/lost_places_mct.loc		
+mct_ovn_lost_world_transfer_title	启用第二起点	false
+mct_ovn_lost_world_transfer_desc	此选项将把额外的定居点移交给部分次要派系，其位置虽远但符合背景设定，旨在增加种族多样性。若要禁用，请取消勾选。	false
